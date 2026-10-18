@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vishnu+%F0%9F%91%8B;Full+Stack+Developer;Building+glassmorphic+digital+experiences;Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vishnu+%F0%9F%91%8B;Full+Stack+Developer;B[...]/>
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/stars/Vishnu912py?label=Stars&style=social" />
 </p>
 
-<h1 align="center">Vishnu</h1>
+<h1 align="center">Full Stack Developer & Machine Learning Enthusiast</h1>
 
 <p align="center">
   I design and build polished digital experiences with a strong focus on <b>product thinking</b>, <b>clean UI</b>, and <b>scalable engineering</b>.
@@ -119,12 +119,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu912py&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=E2E8F0&bg_color=0B1120" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu912py&layout=compact&theme=tokyonight&hide_border=true&title_color=7DD3FC&text_color=E2E8F0&bg_color=0B1120" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu912py&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=E2E8F0&[...]"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu912py&layout=compact&theme=tokyonight&hide_border=true&title_color=7DD3FC&text_color=E2E8F0&bg_color=0B1120" alt="Top L[...]"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu912py&theme=tokyonight&hide_border=true&background=0B1120&stroke=7DD3FC&ring=7DD3FC&fire=F472B6&currStreakLabel=7DD3FC" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu912py&theme=tokyonight&hide_border=true&background=0B1120&stroke=7DD3FC&ring=7DD3FC&fire=F472B6&currStreakLabel=7DD3FC" alt="Gi[...]"/>
 </p>
 
 ---
@@ -141,10 +141,6 @@
   <a href="mailto:hello@vishnu.dev">
     <img src="https://img.shields.io/badge/Email-hello@vishnu.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Designed%20for-Glassmorphism-111827?style=flat-square" />
 </p>
 
 <p align="center">
