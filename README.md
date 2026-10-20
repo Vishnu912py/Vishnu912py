@@ -12,10 +12,10 @@
   <a href="https://github.com/Vishnu912py">
     <img src="https://img.shields.io/badge/GitHub-Vishnu912py-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/vishnu-naveen-nair-6175912b5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="mailto:hello@vishnu.dev">
+  <a href="mailto:vnnrocks@gmail.com">
     <img src="https://img.shields.io/badge/Email-hello@vishnu.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/github/stars/Vishnu912py?label=Stars&style=social" />
 </p>
 
-<h1 align="center">Full Stack Developer & Machine Learning Enthusiast</h1>
+<h1 align="center">Full Stack Developer</h1>
 
 <p align="center">
-  I design and build polished digital experiences with a strong focus on <b>product thinking</b>, <b>clean UI</b>, and <b>scalable engineering</b>.
+  I am a third-year Computer Science and Engineering undergraduate at Mar Athanasius College of Engineering (MACE), specializing in full-stack AI development and algorithmic problem-solving. My recent projects include building SignalSpeak, an assistive communication platform integrating React, FastAPI, LLMs, and eye-gaze tracking. I regularly solve complex data structure and algorithm challenges in Python and C++, and experiment with local LLM inference setups. Beyond coding, I am actively involved in organizing major regional hackathons like Girlathon. Looking ahead, I am eager to connect on scalable AI architectures, full-stack development, and impactful tech initiatives.
 </p>
 
 ---
@@ -52,8 +52,7 @@
         <p align="left">
           • Full-stack web development<br>
           • Product engineering<br>
-          • UI/UX optimization<br>
-          • Scalable frontend systems<br>
+          • Algorithmic Problem Solving
           • Real-world problem solving
         </p>
       </td>
@@ -135,10 +134,10 @@
   <a href="https://github.com/Vishnu912py">
     <img src="https://img.shields.io/badge/GitHub-Vishnu912py-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/vishnu-naveen-nair-6175912b5">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="mailto:hello@vishnu.dev">
+  <a href="mailto:vnnrocks@gmail.com">
     <img src="https://img.shields.io/badge/Email-hello@vishnu.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
