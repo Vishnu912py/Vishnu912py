@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   <a href="mailto:vnnrocks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hello@vishnu.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Email-vnnrocks@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
 
