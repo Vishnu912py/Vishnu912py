@@ -93,31 +93,53 @@
 
 ---
 
-## Featured Work
+## Top Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="33%">
-        <img src="https://img.shields.io/badge/SaaS-Dashboard-7DD3FC?style=for-the-badge" alt="SaaS Dashboard" />
-        <br>
-        <b>Product Dashboards</b>
-        <br>
-        Clean, useful analytics experiences.
+      <td width="32%" valign="top">
+        <a href="https://github.com/Vishnu912py/AgniRakshak"><b>AgniRakshak</b></a><br>
+        <sub>Dynamic Emergency Evacuation Planner</sub>
       </td>
-      <td width="33%">
-        <img src="https://img.shields.io/badge/E-Commerce-ShopFlow-5EEAD4?style=for-the-badge" alt="E-Commerce" />
-        <br>
-        <b>Storefronts</b>
-        <br>
-        High-conversion, responsive shopping experiences.
+      <td width="68%" valign="top">
+        React + TypeScript/Vite/Tailwind frontend with FastAPI + SQLAlchemy/SQLite backend; manual A* pathfinding with seven route-safety constraints, dynamic fire spread rerouting, and occupant movement simulation.
       </td>
-      <td width="33%">
-        <img src="https://img.shields.io/badge/Workflow-TaskPilot-F472B6?style=for-the-badge" alt="Workflow" />
-        <br>
-        <b>Productivity Apps</b>
-        <br>
-        Tools built to simplify real-world work.
+    </tr>
+    <tr>
+      <td width="32%" valign="top">
+        <a href="https://github.com/Vishnu912py/Auto-NAWI"><b>Auto-NAWI</b></a><br>
+        <sub>SmartNAWI Legal Metrology Platform</sub>
+      </td>
+      <td width="68%" valign="top">
+        Smart India Hackathon project (implemented under <code>SIH-DEMO-main/</code>) with a deterministic OIML R-76 rule engine, test-entry wizard, certificate PDF generation, SHA-256 tamper defense, RBAC, and public verification.
+      </td>
+    </tr>
+    <tr>
+      <td width="32%" valign="top">
+        <a href="https://github.com/Vishnu912py/Upshift"><b>Upshift</b></a><br>
+        <sub>Skill-to-Job Readiness Platform</sub>
+      </td>
+      <td width="68%" valign="top">
+        PHP 8+ and MySQL platform with learner/mentor/admin workflows, assessments, readiness metrics, learning recommendations, resume builder, job matching, notifications, and dashboards.
+      </td>
+    </tr>
+    <tr>
+      <td width="32%" valign="top">
+        <a href="https://github.com/Vishnu912py/Resource-Demand-Forecasting"><b>Resource-Demand-Forecasting</b></a><br>
+        <sub>Time-Series Forecasting Research</sub>
+      </td>
+      <td width="68%" valign="top">
+        Python/Jupyter learning and research repository covering ARIMA, SARIMA, MSTL, hierarchical forecasting, cross-validation, and real-world logistics/resource-demand datasets.
+      </td>
+    </tr>
+    <tr>
+      <td width="32%" valign="top">
+        <a href="https://github.com/Vishnu912py/NexCart_The_next_shopping_universe"><b>NexCart_The_next_shopping_universe</b></a><br>
+        <sub>Spring Boot E-commerce Project</sub>
+      </td>
+      <td width="68%" valign="top">
+        Java e-commerce project with README-confirmed Spring Boot, Maven, JDK 17, and database integration.
       </td>
     </tr>
   </table>
