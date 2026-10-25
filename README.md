@@ -161,7 +161,13 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishnu912py/Vishnu912py/output/github-contribution-grid-snake-dark.svg" alt="Animated snake tracing Vishnu's GitHub contribution graph" />
+  <img src="https://img.shields.io/badge/Contribution%20Flow-Cyan-7DD3FC?style=for-the-badge" alt="Contribution flow cyan accent badge" />
+  <img src="https://img.shields.io/badge/Snake%20Theme-Teal-5EEAD4?style=for-the-badge" alt="Contribution snake teal accent badge" />
+  <img src="https://img.shields.io/badge/Grid%20Trail-Pink-F472B6?style=for-the-badge" alt="Contribution trail pink accent badge" />
+</p>
+
+<p align="center">
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Animated snake tracing Vishnu's GitHub contribution graph in dark cyan and pink theme" width="96%" />
 </p>
 
 <p align="center">
