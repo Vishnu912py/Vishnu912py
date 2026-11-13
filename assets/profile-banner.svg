@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 196" role="img" aria-labelledby="title desc">
+  <title id="title">Vishnu Naveen Nair</title>
+  <desc id="desc">Full-stack developer with a focus on web applications and applied AI</desc>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#0b1426"/>
+      <stop offset="1" stop-color="#172943"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#a4c2de" stroke-opacity=".11"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="196" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .trace { stroke-dasharray: 230; stroke-dashoffset: 0; animation: draw 1.6s ease-out both; }
+    @keyframes draw { from { stroke-dashoffset: 230; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .trace { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="196" fill="url(#background)"/>
+    <rect x="690" width="310" height="196" fill="url(#grid)"/>
+    <path d="M745 142h38l24-35h36l25-32h67" stroke="#526a83" stroke-width="3" fill="none"/>
+    <path class="trace" d="M745 142h38l24-35h36l25-32h67" stroke="url(#accent)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="935" cy="75" r="5" fill="#5eead4"/>
+    <rect x="48" y="44" width="46" height="4" rx="2" fill="url(#accent)"/>
+    <text x="48" y="107" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="50" font-weight="700">Vishnu Naveen Nair</text>
+    <text x="50" y="147" fill="#bed4e8" font-family="system-ui, sans-serif" font-size="22">Full-stack developer | Web applications and applied AI</text>
+  </g>
+</svg>
