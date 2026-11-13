@@ -12,7 +12,7 @@
 
 ## About
 
-I study Computer Science and Engineering at Mar Athanasius College of Engineering in India. I build web applications from interface to deployment and explore how AI can support assistive communication. I practice algorithms in Python and C++ and have helped organize Girlathon.
+I study Computer Science and Engineering (Data Science) at Mar Athanasius College of Engineering in India. I build web applications from interface to deployment and explore how AI can support assistive communication. I practice algorithms and optimize it in Python and C++.
 
 ## Selected projects
 
